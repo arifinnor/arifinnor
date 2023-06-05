@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arifinnor
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning VILT stack.
+- 👀 I’m a full-time full-stack developer.
+- 🌱 I currently use VILT stack.
 
 <!---
 arifinnor/arifinnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
